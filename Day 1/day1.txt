@@ -1,0 +1,7 @@
+Today I learned what C# is — an object-oriented programming language developed by Microsoft that runs on the .NET Framework.
+
+C# is versatile and widely used for building mobile apps, web apps, desktop software, games, VR experiences, and more.
+
+It’s easy to learn, has a strong community, and shares similarities with C, C++, and Java, making it beginner-friendly yet powerful.
+
+Excited to dive deeper into C# in the coming days!

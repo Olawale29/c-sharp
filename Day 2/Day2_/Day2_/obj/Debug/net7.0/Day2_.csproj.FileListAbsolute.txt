@@ -1,0 +1,15 @@
+C:\Users\kolay\OneDrive\Desktop\90DaysOfCSharp\Day 2\Day2_\Day2_\bin\Debug\net7.0\Day2_.exe
+C:\Users\kolay\OneDrive\Desktop\90DaysOfCSharp\Day 2\Day2_\Day2_\bin\Debug\net7.0\Day2_.deps.json
+C:\Users\kolay\OneDrive\Desktop\90DaysOfCSharp\Day 2\Day2_\Day2_\bin\Debug\net7.0\Day2_.runtimeconfig.json
+C:\Users\kolay\OneDrive\Desktop\90DaysOfCSharp\Day 2\Day2_\Day2_\bin\Debug\net7.0\Day2_.dll
+C:\Users\kolay\OneDrive\Desktop\90DaysOfCSharp\Day 2\Day2_\Day2_\bin\Debug\net7.0\Day2_.pdb
+C:\Users\kolay\OneDrive\Desktop\90DaysOfCSharp\Day 2\Day2_\Day2_\obj\Debug\net7.0\Day2_.csproj.AssemblyReference.cache
+C:\Users\kolay\OneDrive\Desktop\90DaysOfCSharp\Day 2\Day2_\Day2_\obj\Debug\net7.0\Day2_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolay\OneDrive\Desktop\90DaysOfCSharp\Day 2\Day2_\Day2_\obj\Debug\net7.0\Day2_.AssemblyInfoInputs.cache
+C:\Users\kolay\OneDrive\Desktop\90DaysOfCSharp\Day 2\Day2_\Day2_\obj\Debug\net7.0\Day2_.AssemblyInfo.cs
+C:\Users\kolay\OneDrive\Desktop\90DaysOfCSharp\Day 2\Day2_\Day2_\obj\Debug\net7.0\Day2_.csproj.CoreCompileInputs.cache
+C:\Users\kolay\OneDrive\Desktop\90DaysOfCSharp\Day 2\Day2_\Day2_\obj\Debug\net7.0\Day2_.dll
+C:\Users\kolay\OneDrive\Desktop\90DaysOfCSharp\Day 2\Day2_\Day2_\obj\Debug\net7.0\refint\Day2_.dll
+C:\Users\kolay\OneDrive\Desktop\90DaysOfCSharp\Day 2\Day2_\Day2_\obj\Debug\net7.0\Day2_.pdb
+C:\Users\kolay\OneDrive\Desktop\90DaysOfCSharp\Day 2\Day2_\Day2_\obj\Debug\net7.0\Day2_.genruntimeconfig.cache
+C:\Users\kolay\OneDrive\Desktop\90DaysOfCSharp\Day 2\Day2_\Day2_\obj\Debug\net7.0\ref\Day2_.dll
