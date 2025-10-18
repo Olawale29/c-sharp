@@ -1,6 +1,7 @@
 ﻿//c# syntax
 using System; //means we can use classes from the system namespace
 using System.Collections.Generic;
+using System.Runtime.Intrinsics.X86;
 using static System.Net.Mime.MediaTypeNames;
 
 //namespace is a container to organize your code and its a container for classes and other namespaces
@@ -77,6 +78,17 @@ namespace HelloWorld
             //Declare many variables
             int x = 4, y = 5 , z = 10;
             Console.WriteLine(x + y + z);
+
+            //Identifiers
+            /*All C# variables must be identified with unique names.
+            These unique names are called identifiers.
+            Identifiers can be short names(like x and y) or more descriptive names(age, sum, totalVolume).
+            It is recommended to use descriptive names in order to create understandable and maintainable code: */
+
+            int minutePerHour = 60; //good
+
+            int m = 60; //OK, but not so easy to understand what m actually is
+
 
 
 

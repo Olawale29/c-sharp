@@ -1,0 +1,15 @@
+C:\Users\kolay\OneDrive\Desktop\90DaysOfCSharp\Day 3\bin\Debug\net7.0\Day 3.exe
+C:\Users\kolay\OneDrive\Desktop\90DaysOfCSharp\Day 3\bin\Debug\net7.0\Day 3.deps.json
+C:\Users\kolay\OneDrive\Desktop\90DaysOfCSharp\Day 3\bin\Debug\net7.0\Day 3.runtimeconfig.json
+C:\Users\kolay\OneDrive\Desktop\90DaysOfCSharp\Day 3\bin\Debug\net7.0\Day 3.dll
+C:\Users\kolay\OneDrive\Desktop\90DaysOfCSharp\Day 3\bin\Debug\net7.0\Day 3.pdb
+C:\Users\kolay\OneDrive\Desktop\90DaysOfCSharp\Day 3\obj\Debug\net7.0\Day 3.csproj.AssemblyReference.cache
+C:\Users\kolay\OneDrive\Desktop\90DaysOfCSharp\Day 3\obj\Debug\net7.0\Day 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolay\OneDrive\Desktop\90DaysOfCSharp\Day 3\obj\Debug\net7.0\Day 3.AssemblyInfoInputs.cache
+C:\Users\kolay\OneDrive\Desktop\90DaysOfCSharp\Day 3\obj\Debug\net7.0\Day 3.AssemblyInfo.cs
+C:\Users\kolay\OneDrive\Desktop\90DaysOfCSharp\Day 3\obj\Debug\net7.0\Day 3.csproj.CoreCompileInputs.cache
+C:\Users\kolay\OneDrive\Desktop\90DaysOfCSharp\Day 3\obj\Debug\net7.0\Day 3.dll
+C:\Users\kolay\OneDrive\Desktop\90DaysOfCSharp\Day 3\obj\Debug\net7.0\refint\Day 3.dll
+C:\Users\kolay\OneDrive\Desktop\90DaysOfCSharp\Day 3\obj\Debug\net7.0\Day 3.pdb
+C:\Users\kolay\OneDrive\Desktop\90DaysOfCSharp\Day 3\obj\Debug\net7.0\Day 3.genruntimeconfig.cache
+C:\Users\kolay\OneDrive\Desktop\90DaysOfCSharp\Day 3\obj\Debug\net7.0\ref\Day 3.dll
